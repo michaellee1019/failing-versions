@@ -11,5 +11,5 @@ func main() {
 	// ModularMain can take multiple APIModel arguments, if your module implements multiple models.
 	module.ModularMain(resource.APIModel{ sensor.API, failingversions.TestModel})
 
-	panic("Im failing on version 0.0.1")
+	panic("Im failing on version 0.0.2")
 }

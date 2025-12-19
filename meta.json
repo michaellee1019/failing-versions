@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "viam:failing-versions",
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/michaellee1019/failing-versions",
   "description": "Modular sensor component: test-model",
   "models": [
     {
